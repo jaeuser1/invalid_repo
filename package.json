@@ -11,6 +11,11 @@
 		"url": "https://github.com/pantheon-systems/decoupled-kit-js"
 	},
 	"author": "@pantheon-systems",
+	"scripts": {
+		"dev": "next dev",
+		"prettier": "prettier \"**/*.{js,jsx,md}\" --check --ignore-path .prettierignore",
+		"prettier:fix": "prettier \"**/*.{js,jsx,,md}\" --write --ignore-path .prettierignore"
+	},
 	"dependencies": {
 		"@pantheon-systems/wordpress-kit": "2.5.0",
 		"@tailwindcss/typography": "^0.5.2",
