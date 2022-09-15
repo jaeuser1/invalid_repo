@@ -12,7 +12,7 @@
 	},
 	"author": "@pantheon-systems",
 	"scripts": {
-
+				"dev": ""
 	},
 	"dependencies": {
 		"@pantheon-systems/wordpress-kit": "2.5.0",
