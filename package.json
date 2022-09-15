@@ -11,9 +11,6 @@
 		"url": "https://github.com/pantheon-systems/decoupled-kit-js"
 	},
 	"author": "@pantheon-systems",
-	"scripts": {
-				"dev": ""
-	},
 	"dependencies": {
 		"@pantheon-systems/wordpress-kit": "2.5.0",
 		"@tailwindcss/typography": "^0.5.2",
