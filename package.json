@@ -12,9 +12,7 @@
 	},
 	"author": "@pantheon-systems",
 	"scripts": {
-		"dev": "next dev",
-		"prettier": "prettier \"**/*.{js,jsx,md}\" --check --ignore-path .prettierignore",
-		"prettier:fix": "prettier \"**/*.{js,jsx,,md}\" --write --ignore-path .prettierignore"
+
 	},
 	"dependencies": {
 		"@pantheon-systems/wordpress-kit": "2.5.0",
